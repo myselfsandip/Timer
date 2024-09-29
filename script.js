@@ -1,4 +1,4 @@
-const newYears  = '3 June 2024';
+const newYears  = '1 December 2024';
 
 const targetEl = document.querySelector('h1');
 const targetEvent = "Fourth Semester";
